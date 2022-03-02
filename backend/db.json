@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 3.25
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "id": 4,
+      "name": "Samsung A01",
+      "price": "649.99"
+    },
+    {
+      "name": "Samsung A02",
+      "price": "749.99",
+      "id": 5
+    }
+  ]
+}
